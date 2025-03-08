@@ -8,8 +8,6 @@ function getService(a)
     return game:GetService(a)
 end
 
-string.split
-
 --
 
 local UIS = getService("UserInputService")
